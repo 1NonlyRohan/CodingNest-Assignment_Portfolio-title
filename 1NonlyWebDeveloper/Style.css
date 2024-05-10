@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.head h2 a {
+    left: 50px;
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 30px;
+}
+
+.navbar ul {
+    right: 60px;
+    margin-left: 800px;
+    position: absolute;
+    top: 30px;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
+    margin: 20px;
+    color: black;
+    font-size: 20px;
+}
+
+.p-t h1 {
+    margin: 120px 0 0 50px;
+    display: inline-block;
+}
+
+.p p {
+    margin: 10px 0 0 50px;
+    display: inline-block;
+    padding-right: 950px;
+}
+
+
+.dabba-1 .poster-1 img {
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+
+.dabba-1 .poster-cont-1 {
+    margin: 20px 0 20px 50px;
+}
+
+.poster-cont-1 h3,
+p {
+    padding: 5px 0px;
+}
+
+.dabba-2 .poster-2 img {
+    position: absolute;
+    left: 350px;
+    top: 232px;
+}
+
+.dabba-2 .poster-cont-2 {
+    position: absolute;
+    left: 360px;
+    top: 390px;
+}
+
+.poster-cont-2 h3,
+p {
+    padding: 5px 0px;
+}
+
+.dabba-3 .poster-3 img {
+    position: absolute;
+    left: 50px;
+}
+
+.dabba-3 .poster-cont-3 {
+    position: absolute;
+    left: 60px;
+    top: 630px;
+}
+
+.poster-cont-3 h3,p {
+    padding: 5px 0px;
+}
+
+.dabba-4 .poster-4 img {
+    position: absolute;
+    left: 350px;
+    top: 470px;
+}
+
+.dabba-4 .poster-cont-4 {
+    position: absolute;
+    left: 360px;
+    top: 630px;
+}
+
+.poster-cont-4 h3,
+p {
+    padding: 5px 0px;
+}
+
+.foot a h1 {
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    margin: 20px 0 0 100px;
+}
+
+.social-links {
+    position: absolute;
+    margin: 170px 0 0 100px;
+}
+
+.social-links .fa-xl {
+    font-size: 1.8em;
+    margin-left: 15px;
+    color: #565555;
+}
+
+.topic-page {
+    margin: 0px 0px 20px 800px;
+}
